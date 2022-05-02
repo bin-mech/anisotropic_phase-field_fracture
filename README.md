@@ -1,4 +1,4 @@
-# Anisotropic_phase-field_fracture
+# anisotropic_phase-field_fracture
 FEniCS implementation of a hihger-order phase-field fracture model for brittle anisotropic materials. 
 The phase-field model includes the anisotropy in surface energy as well as in elastic strain energy.
 To address the possible crack surfaces interpenetration issue in compressive crack,
